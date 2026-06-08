@@ -110,4 +110,4 @@ This project can be used for:
 
 ## Author
 
-Developed by **Nour Eldin Mahmoud**.
+Developed by **Nour Eldin**.
